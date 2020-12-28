@@ -1,7 +1,7 @@
 {
   "name": "glassmorphic-js",
-  "version": "0.0.2",
-  "description": "A javascript library to enable rapid construction of glassmorphism rich UI's!",
+  "version": "0.0.3",
+  "description": "Javascript companion for the glassmorphic CSS library.",
   "main": "glassmorphic.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
