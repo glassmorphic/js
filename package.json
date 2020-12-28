@@ -1,0 +1,25 @@
+{
+  "name": "glassmorphic-js",
+  "version": "0.0.1",
+  "description": "A javascript library to enable rapid construction of glassmorphism rich UI's!",
+  "main": "glassmorphic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glassmorphic/js.git"
+  },
+  "keywords": [
+    "Glassmorphic-js",
+    "Glassmorphic.js",
+    "Glassmorphic",
+    "Glassmorphism"
+  ],
+  "author": "James Wylie <hello@glassmorphic.io> (https://glassmorphic.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glassmorphic/js/issues"
+  },
+  "homepage": "https://github.com/glassmorphic/js#readme"
+}
